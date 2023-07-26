@@ -1,4 +1,4 @@
-# Adding_mocks_and_stubs
+# Adding mocks and stubs
  Introduction to Software Testing 
  Week 4 
  Adding Mocks and Stubs completed task
@@ -12,7 +12,7 @@ Since a lot of people were asking for the finished task in discussion on Courser
 
 
 
-Task
+# Task
 
 Suppose that the RecipeBook class is not yet finished and you are tasked with testing the rest of the application.  We wish to construct unit tests for a subset of the user stories using a stubbed version of the RecipeBook.  During the grading phase, we will run a version of the Coffee Maker that leaves the RecipeBook as an abstract interface.   In this instance, we can't test the Recipe class, so there is no point in trying to modify tests relating to AddRecipe, DeleteRecipe, and EditRecipe.
 
