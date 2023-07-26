@@ -8,7 +8,7 @@ The file is located in the following directory:
 
 
 Since a lot of people were asking for the finished task in discussion on Coursera here it is.
-
+  
 
 
 
